@@ -10,5 +10,3 @@
 - 📫 How to reach me: github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like playing games
-
-![](https://media1.tenor.com/m/_VZMHoUXhI4AAAAC/sasuke-thinking.gif)
